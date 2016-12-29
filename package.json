@@ -1,6 +1,6 @@
 {
   "name": "edi-parser",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "EDI parser with simple api, full of options and tested against large datasets. Based on node-csv-parser",
   "author": "Rinie Kervel <rinie.kervel@gmail.com>",
   "contributors": [
